@@ -1,8 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="675d0845-e6cc-49b4-8343-81ca8e5497cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Python_100_Days_Challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day 3/Treasure_island - challenge_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/challenge_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 2/challenge_2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1judWCUrD7XjTTexH8bxW3k4877" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Beginner" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Treasure_island - challenge_3">
+    <configuration name="Love calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_100_Days_Challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day 3/Love calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Treasure_island - challenge_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_100_Days_Challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day 3/Treasure_island - challenge_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="challenge_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_100_Days_Challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_1/challenge_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="challenge_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_100_Days_Challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 2/challenge_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Treasure_island - challenge_3" />
+        <item itemvalue="Python.Love calculator" />
+        <item itemvalue="Python.challenge_2" />
+        <item itemvalue="Python.challenge_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="675d0845-e6cc-49b4-8343-81ca8e5497cd" name="Default Changelist" comment="" />
+      <created>1604657939256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604657939256</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Solving the 1. day challenge">
+      <created>1604658656642</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604658656642</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Solving the 2. day challenge">
+      <created>1604661125152</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604661125152</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Love challenge - Day 3">
+      <created>1604664688579</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604664688579</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Solving the 1. day challenge" />
+    <MESSAGE value="Solving the 2. day challenge" />
+    <MESSAGE value="Love challenge - Day 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Love challenge - Day 3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="858" y="23" key="CommitChangelistDialog2" timestamp="1604664688430">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state x="858" y="23" key="CommitChangelistDialog2/0.23.1680.957@0.23.1680.957" timestamp="1604664688430" />
+    <state x="1128" y="405" key="Github.ShareDialog" timestamp="1604657973438">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state x="1128" y="405" key="Github.ShareDialog/0.23.1680.957@0.23.1680.957" timestamp="1604657973438" />
+    <state x="1020" y="127" key="Github.UntrackedFilesDialog" timestamp="1604657983527">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state x="1020" y="127" key="Github.UntrackedFilesDialog/0.23.1680.957@0.23.1680.957" timestamp="1604657983527" />
+    <state width="1659" height="100" key="GridCell.Tab.0.bottom" timestamp="1604667271477">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state width="1659" height="100" key="GridCell.Tab.0.bottom/0.23.1680.957@0.23.1680.957" timestamp="1604667271477" />
+    <state width="1659" height="100" key="GridCell.Tab.0.center" timestamp="1604667271476">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state width="1659" height="100" key="GridCell.Tab.0.center/0.23.1680.957@0.23.1680.957" timestamp="1604667271476" />
+    <state width="1659" height="100" key="GridCell.Tab.0.left" timestamp="1604667271476">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state width="1659" height="100" key="GridCell.Tab.0.left/0.23.1680.957@0.23.1680.957" timestamp="1604667271476" />
+    <state width="1659" height="100" key="GridCell.Tab.0.right" timestamp="1604667271477">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state width="1659" height="100" key="GridCell.Tab.0.right/0.23.1680.957@0.23.1680.957" timestamp="1604667271477" />
+    <state x="880" y="232" key="Vcs.Push.Dialog.v2" timestamp="1604664693194">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state x="880" y="232" key="Vcs.Push.Dialog.v2/0.23.1680.957@0.23.1680.957" timestamp="1604664693194" />
+    <state x="958" y="230" width="670" height="676" key="search.everywhere.popup" timestamp="1604665445663">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state x="958" y="230" width="670" height="676" key="search.everywhere.popup/0.23.1680.957@0.23.1680.957" timestamp="1604665445663" />
   </component>
 </project>
