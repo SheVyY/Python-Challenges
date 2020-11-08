@@ -16,8 +16,10 @@ lives = 6
 print(logo)
 
 while not end_of_game:
+	# Asks user to pick a letter
 	guess = input("Guess a letter: ").lower()
 
+	# Informs user if uses the same letter
 	if guess in display:
 		print(f"You've already guessed {guess}")
 
