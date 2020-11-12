@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="675d0845-e6cc-49b4-8343-81ca8e5497cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Beginner/Day 8/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beginner/Day 8/caesar_cypher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beginner/Day 8/paing_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beginner/Day 8/prime_number_checker.py" afterDir="false" />
+    <list default="true" id="675d0845-e6cc-49b4-8343-81ca8e5497cd" name="Default Changelist" comment="Finishing day 10 - Calculator">
+      <change afterPath="$PROJECT_DIR$/Beginner/Day 11/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/Day 11/blackjack_app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner/Day 3/Love calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 3/love calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner/Day 3/Treasure_island - challenge_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 3/treasure_island - challenge_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner/Day 4/Treasure_finding.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 4/treasure_finding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner/Day 4/Who's paying.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 4/who_is_paying.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner/Day 5/Average_height.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 5/average_height.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner/Day 5/Fizz_Buzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 5/fizzbuzz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner/Day 5/Highest_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 5/highest_value.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner/Day 5/Password_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 5/password_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner/Day 5/Range.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 5/range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner/Day 7/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/Day 7/hangman.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +46,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Beginner/Day 9" />
       <recent name="$PROJECT_DIR$/Beginner" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.caesar_cypher">
-    <configuration name="caesar_cypher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.blackjack_app">
+    <configuration name="bidding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_100_Days_Challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day 8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day 9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day 8/caesar_cypher.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day 9/bidding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hangman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="blackjack_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_100_Days_Challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day 7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day 11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day 7/hangman.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day 11/blackjack_app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="paing_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_100_Days_Challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day 8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day 10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day 8/paing_calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day 10/calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="password_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="days_in_month" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_100_Days_Challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day 5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day 10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day 5/password_generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day 10/days_in_month.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prime_number_checker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="experimenting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_100_Days_Challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day 8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Beginner/Day 9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day 8/prime_number_checker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beginner/Day 9/experimenting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.caesar_cypher" />
-        <item itemvalue="Python.prime_number_checker" />
-        <item itemvalue="Python.paing_calculator" />
-        <item itemvalue="Python.hangman" />
-        <item itemvalue="Python.password_generator" />
+        <item itemvalue="Python.blackjack_app" />
+        <item itemvalue="Python.calculator" />
+        <item itemvalue="Python.days_in_month" />
+        <item itemvalue="Python.bidding" />
+        <item itemvalue="Python.experimenting" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +224,35 @@
       <option name="project" value="LOCAL" />
       <updated>1604840814964</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Refactoring previous file names + Day 7 challenges">
+      <created>1604861266567</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604861266567</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Exercises - day 9">
+      <created>1604960170488</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604960170489</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Final project (secret bidder) - Day 9">
+      <created>1605022278428</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605022278428</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Finishing day 10 - Calculator">
+      <created>1605115834795</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605115834796</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -246,13 +263,18 @@
     <MESSAGE value="Treasure_finding mini game - Day 4" />
     <MESSAGE value="Completed challenges - Day 5" />
     <MESSAGE value="Completed challenges - Day 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed challenges - Day 7" />
+    <MESSAGE value="Refactoring previous file names + Day 7 challenges" />
+    <MESSAGE value="Exercises - day 9" />
+    <MESSAGE value="Final project (secret bidder) - Day 9" />
+    <MESSAGE value="Finishing day 10 - Calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finishing day 10 - Calculator" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="599" y="23" key="CommitChangelistDialog2" timestamp="1604840814853">
-      <screen x="0" y="23" width="1680" height="957" />
+    <state x="599" y="23" key="CommitChangelistDialog2" timestamp="1605115849807">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state x="599" y="23" key="CommitChangelistDialog2/0.23.1680.957@0.23.1680.957" timestamp="1604840814853" />
+    <state x="599" y="23" key="CommitChangelistDialog2/0.23.1680.957@0.23.1680.957" timestamp="1604960170342" />
+    <state x="599" y="23" key="CommitChangelistDialog2/0.23.1680.961@0.23.1680.961" timestamp="1605115849807" />
     <state x="1128" y="405" key="Github.ShareDialog" timestamp="1604657973438">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
@@ -261,46 +283,63 @@
       <screen x="0" y="23" width="1680" height="957" />
     </state>
     <state x="1020" y="127" key="Github.UntrackedFilesDialog/0.23.1680.957@0.23.1680.957" timestamp="1604657983527" />
-    <state width="782" height="268" key="GridCell.Tab.0.bottom" timestamp="1604860800314">
+    <state width="746" height="254" key="GridCell.Tab.0.bottom" timestamp="1605182490402">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
-    <state width="782" height="268" key="GridCell.Tab.0.bottom/0.23.1680.957@0.23.1680.957" timestamp="1604860800314" />
-    <state width="782" height="268" key="GridCell.Tab.0.center" timestamp="1604860800314">
+    <state width="746" height="254" key="GridCell.Tab.0.bottom/0.23.1680.957@0.23.1680.957" timestamp="1605182490402" />
+    <state width="835" height="254" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1605167629485" />
+    <state width="782" height="268" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1605021916045" />
+    <state width="835" height="254" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1605117830913" />
+    <state width="746" height="254" key="GridCell.Tab.0.center" timestamp="1605182490401">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
-    <state width="782" height="268" key="GridCell.Tab.0.center/0.23.1680.957@0.23.1680.957" timestamp="1604860800314" />
-    <state width="782" height="268" key="GridCell.Tab.0.left" timestamp="1604860800314">
+    <state width="746" height="254" key="GridCell.Tab.0.center/0.23.1680.957@0.23.1680.957" timestamp="1605182490401" />
+    <state width="835" height="254" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1605167629485" />
+    <state width="782" height="268" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1605021916044" />
+    <state width="835" height="254" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1605117830912" />
+    <state width="746" height="254" key="GridCell.Tab.0.left" timestamp="1605182490401">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
-    <state width="782" height="268" key="GridCell.Tab.0.left/0.23.1680.957@0.23.1680.957" timestamp="1604860800314" />
-    <state width="782" height="268" key="GridCell.Tab.0.right" timestamp="1604860800314">
+    <state width="746" height="254" key="GridCell.Tab.0.left/0.23.1680.957@0.23.1680.957" timestamp="1605182490401" />
+    <state width="835" height="254" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1605167629485" />
+    <state width="782" height="268" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1605021916044" />
+    <state width="835" height="254" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1605117830912" />
+    <state width="746" height="254" key="GridCell.Tab.0.right" timestamp="1605182490402">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
-    <state width="782" height="268" key="GridCell.Tab.0.right/0.23.1680.957@0.23.1680.957" timestamp="1604860800314" />
-    <state width="708" height="312" key="GridCell.Tab.1.bottom" timestamp="1604847159773">
+    <state width="746" height="254" key="GridCell.Tab.0.right/0.23.1680.957@0.23.1680.957" timestamp="1605182490402" />
+    <state width="835" height="254" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1605167629485" />
+    <state width="782" height="268" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1605021916044" />
+    <state width="835" height="254" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1605117830913" />
+    <state width="746" height="312" key="GridCell.Tab.1.bottom" timestamp="1605174686308">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
-    <state width="708" height="312" key="GridCell.Tab.1.bottom/0.23.1680.957@0.23.1680.957" timestamp="1604847159773" />
-    <state width="708" height="312" key="GridCell.Tab.1.center" timestamp="1604847159772">
+    <state width="746" height="312" key="GridCell.Tab.1.bottom/0.23.1680.957@0.23.1680.957" timestamp="1605174686308" />
+    <state width="782" height="312" key="GridCell.Tab.1.bottom/0.23.1680.958@0.23.1680.958" timestamp="1605167627548" />
+    <state width="746" height="312" key="GridCell.Tab.1.center" timestamp="1605174686307">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
-    <state width="708" height="312" key="GridCell.Tab.1.center/0.23.1680.957@0.23.1680.957" timestamp="1604847159772" />
-    <state width="708" height="312" key="GridCell.Tab.1.left" timestamp="1604847159772">
+    <state width="746" height="312" key="GridCell.Tab.1.center/0.23.1680.957@0.23.1680.957" timestamp="1605174686307" />
+    <state width="782" height="312" key="GridCell.Tab.1.center/0.23.1680.958@0.23.1680.958" timestamp="1605167627546" />
+    <state width="746" height="312" key="GridCell.Tab.1.left" timestamp="1605174686307">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
-    <state width="708" height="312" key="GridCell.Tab.1.left/0.23.1680.957@0.23.1680.957" timestamp="1604847159772" />
-    <state width="708" height="312" key="GridCell.Tab.1.right" timestamp="1604847159772">
+    <state width="746" height="312" key="GridCell.Tab.1.left/0.23.1680.957@0.23.1680.957" timestamp="1605174686307" />
+    <state width="782" height="312" key="GridCell.Tab.1.left/0.23.1680.958@0.23.1680.958" timestamp="1605167627546" />
+    <state width="746" height="312" key="GridCell.Tab.1.right" timestamp="1605174686308">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
-    <state width="708" height="312" key="GridCell.Tab.1.right/0.23.1680.957@0.23.1680.957" timestamp="1604847159772" />
+    <state width="746" height="312" key="GridCell.Tab.1.right/0.23.1680.957@0.23.1680.957" timestamp="1605174686308" />
+    <state width="782" height="312" key="GridCell.Tab.1.right/0.23.1680.958@0.23.1680.958" timestamp="1605167627547" />
     <state x="698" y="140" key="SettingsEditor" timestamp="1604779647919">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
     <state x="698" y="140" key="SettingsEditor/0.23.1680.957@0.23.1680.957" timestamp="1604779647919" />
-    <state x="880" y="232" key="Vcs.Push.Dialog.v2" timestamp="1604840816367">
-      <screen x="0" y="23" width="1680" height="957" />
+    <state x="880" y="233" key="Vcs.Push.Dialog.v2" timestamp="1605115866190">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state x="880" y="232" key="Vcs.Push.Dialog.v2/0.23.1680.957@0.23.1680.957" timestamp="1604840816367" />
+    <state x="880" y="232" key="Vcs.Push.Dialog.v2/0.23.1680.957@0.23.1680.957" timestamp="1604960172030" />
+    <state x="880" y="233" key="Vcs.Push.Dialog.v2/0.23.1680.961@0.23.1680.961" timestamp="1605115866190" />
     <state width="600" height="440" key="javadoc.popup" timestamp="1604761006914">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
@@ -309,5 +348,28 @@
       <screen x="0" y="23" width="1680" height="957" />
     </state>
     <state x="958" y="230" width="670" height="676" key="search.everywhere.popup/0.23.1680.957@0.23.1680.957" timestamp="1604845781982" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Beginner/Day 11/blackjack_app.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Beginner/Day 11/blackjack_app.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
