@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="675d0845-e6cc-49b4-8343-81ca8e5497cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Beginner/Day 15/coffee_machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Day 16/codewars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Day 17/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_100_Days_Challenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_100_Days_Challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Day 18/hirst-painting/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Day 18/hirst-painting/painting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate/Day 18/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Day 17/quiz-game-start/quiz_brain.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -57,54 +57,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Intermediate/Day 18/hirst-painting" />
       <recent name="$PROJECT_DIR$/Intermediate/Day 17" />
       <recent name="$PROJECT_DIR$/Beginner/Day 9" />
       <recent name="$PROJECT_DIR$/Beginner" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
-    <configuration name="codewars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_100_Days_Challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intermediate/Day 16" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 16/codewars.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_100_Days_Challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intermediate/Day 17" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 17/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.painting">
     <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_100_Days_Challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_100_Days_Challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intermediate/Day 16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intermediate/Day 18" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 16/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 18/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +106,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="question_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_100_Days_Challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intermediate/Day 17/quiz-game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 17/quiz-game/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="painting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_100_Days_Challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intermediate/Day 18/hirst-painting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 18/hirst-painting/painting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quiz_brain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_100_Days_Challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,7 +160,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 17/quiz-game-start/question_model.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intermediate/Day 17/quiz-game-start/quiz_brain.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.question_model" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.codewars" />
+        <item itemvalue="Python.painting" />
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.quiz_brain" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +286,28 @@
       <option name="project" value="LOCAL" />
       <updated>1605462423885</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Starting OOP">
+      <created>1606907935153</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606907935153</updated>
+    </task>
+    <task id="LOCAL-00016" summary="QuizBrain project">
+      <created>1606908015778</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606908015778</updated>
+    </task>
+    <task id="LOCAL-00017" summary="QuizBrain project - Final">
+      <created>1606909345036</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1606909345036</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -303,7 +325,10 @@
     <MESSAGE value="Blackjack game - Day 11" />
     <MESSAGE value="Guessing_game - Day 12" />
     <MESSAGE value="Higher_Lower + Debugging lesson - Day 13-14" />
-    <option name="LAST_COMMIT_MESSAGE" value="Higher_Lower + Debugging lesson - Day 13-14" />
+    <MESSAGE value="Starting OOP" />
+    <MESSAGE value="QuizBrain project" />
+    <MESSAGE value="QuizBrain project - Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="QuizBrain project - Final" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1083" y="132" key="#Python" timestamp="1605200500456">
@@ -314,11 +339,12 @@
       <screen x="0" y="23" width="1680" height="957" />
     </state>
     <state x="1039" y="307" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.957@0.23.1680.957" timestamp="1605472632058" />
-    <state x="599" y="23" key="CommitChangelistDialog2" timestamp="1605462423728">
-      <screen x="0" y="23" width="1680" height="957" />
+    <state x="599" y="25" key="CommitChangelistDialog2" timestamp="1606909344861">
+      <screen x="0" y="25" width="1680" height="950" />
     </state>
     <state x="599" y="23" key="CommitChangelistDialog2/0.23.1680.957@0.23.1680.957" timestamp="1605462423728" />
     <state x="599" y="23" key="CommitChangelistDialog2/0.23.1680.961@0.23.1680.961" timestamp="1605115849807" />
+    <state x="599" y="25" key="CommitChangelistDialog2/0.25.1680.950@0.25.1680.950" timestamp="1606909344861" />
     <state x="1128" y="405" key="Github.ShareDialog" timestamp="1604657973438">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
@@ -327,68 +353,81 @@
       <screen x="0" y="23" width="1680" height="957" />
     </state>
     <state x="1020" y="127" key="Github.UntrackedFilesDialog/0.23.1680.957@0.23.1680.957" timestamp="1604657983527" />
-    <state width="850" height="226" key="GridCell.Tab.0.bottom" timestamp="1606907546900">
+    <state width="850" height="149" key="GridCell.Tab.0.bottom" timestamp="1607003759857">
       <screen x="0" y="25" width="1680" height="950" />
     </state>
     <state width="1659" height="188" key="GridCell.Tab.0.bottom/0.23.1680.957@0.23.1680.957" timestamp="1605743171153" />
     <state width="835" height="254" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1605167629485" />
     <state width="782" height="268" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1605021916045" />
     <state width="835" height="254" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1605117830913" />
-    <state width="850" height="226" key="GridCell.Tab.0.bottom/0.25.1680.950@0.25.1680.950" timestamp="1606907546900" />
-    <state width="850" height="226" key="GridCell.Tab.0.center" timestamp="1606907546898">
+    <state width="850" height="149" key="GridCell.Tab.0.bottom/0.25.1680.950@0.25.1680.950" timestamp="1607003759857" />
+    <state width="850" height="149" key="GridCell.Tab.0.center" timestamp="1607003759855">
       <screen x="0" y="25" width="1680" height="950" />
     </state>
     <state width="1659" height="188" key="GridCell.Tab.0.center/0.23.1680.957@0.23.1680.957" timestamp="1605743171152" />
     <state width="835" height="254" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1605167629485" />
     <state width="782" height="268" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1605021916044" />
     <state width="835" height="254" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1605117830912" />
-    <state width="850" height="226" key="GridCell.Tab.0.center/0.25.1680.950@0.25.1680.950" timestamp="1606907546898" />
-    <state width="850" height="226" key="GridCell.Tab.0.left" timestamp="1606907546897">
+    <state width="850" height="149" key="GridCell.Tab.0.center/0.25.1680.950@0.25.1680.950" timestamp="1607003759855" />
+    <state width="850" height="149" key="GridCell.Tab.0.left" timestamp="1607003759855">
       <screen x="0" y="25" width="1680" height="950" />
     </state>
     <state width="1659" height="188" key="GridCell.Tab.0.left/0.23.1680.957@0.23.1680.957" timestamp="1605743171152" />
     <state width="835" height="254" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1605167629485" />
     <state width="782" height="268" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1605021916044" />
     <state width="835" height="254" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1605117830912" />
-    <state width="850" height="226" key="GridCell.Tab.0.left/0.25.1680.950@0.25.1680.950" timestamp="1606907546897" />
-    <state width="850" height="226" key="GridCell.Tab.0.right" timestamp="1606907546898">
+    <state width="850" height="149" key="GridCell.Tab.0.left/0.25.1680.950@0.25.1680.950" timestamp="1607003759855" />
+    <state width="850" height="149" key="GridCell.Tab.0.right" timestamp="1607003759856">
       <screen x="0" y="25" width="1680" height="950" />
     </state>
     <state width="1659" height="188" key="GridCell.Tab.0.right/0.23.1680.957@0.23.1680.957" timestamp="1605743171152" />
     <state width="835" height="254" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1605167629485" />
     <state width="782" height="268" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1605021916044" />
     <state width="835" height="254" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1605117830913" />
-    <state width="850" height="226" key="GridCell.Tab.0.right/0.25.1680.950@0.25.1680.950" timestamp="1606907546898" />
-    <state width="1659" height="188" key="GridCell.Tab.1.bottom" timestamp="1605743171154">
-      <screen x="0" y="23" width="1680" height="957" />
+    <state width="850" height="149" key="GridCell.Tab.0.right/0.25.1680.950@0.25.1680.950" timestamp="1607003759856" />
+    <state width="850" height="184" key="GridCell.Tab.1.bottom" timestamp="1606984218487">
+      <screen x="0" y="25" width="1680" height="950" />
     </state>
     <state width="1659" height="188" key="GridCell.Tab.1.bottom/0.23.1680.957@0.23.1680.957" timestamp="1605743171154" />
     <state width="782" height="312" key="GridCell.Tab.1.bottom/0.23.1680.958@0.23.1680.958" timestamp="1605167627548" />
-    <state width="1659" height="188" key="GridCell.Tab.1.center" timestamp="1605743171153">
-      <screen x="0" y="23" width="1680" height="957" />
+    <state width="850" height="184" key="GridCell.Tab.1.bottom/0.25.1680.950@0.25.1680.950" timestamp="1606984218487" />
+    <state width="850" height="184" key="GridCell.Tab.1.center" timestamp="1606984218486">
+      <screen x="0" y="25" width="1680" height="950" />
     </state>
     <state width="1659" height="188" key="GridCell.Tab.1.center/0.23.1680.957@0.23.1680.957" timestamp="1605743171153" />
     <state width="782" height="312" key="GridCell.Tab.1.center/0.23.1680.958@0.23.1680.958" timestamp="1605167627546" />
-    <state width="1659" height="188" key="GridCell.Tab.1.left" timestamp="1605743171153">
-      <screen x="0" y="23" width="1680" height="957" />
+    <state width="850" height="184" key="GridCell.Tab.1.center/0.25.1680.950@0.25.1680.950" timestamp="1606984218486" />
+    <state width="850" height="184" key="GridCell.Tab.1.left" timestamp="1606984218486">
+      <screen x="0" y="25" width="1680" height="950" />
     </state>
     <state width="1659" height="188" key="GridCell.Tab.1.left/0.23.1680.957@0.23.1680.957" timestamp="1605743171153" />
     <state width="782" height="312" key="GridCell.Tab.1.left/0.23.1680.958@0.23.1680.958" timestamp="1605167627546" />
-    <state width="1659" height="188" key="GridCell.Tab.1.right" timestamp="1605743171153">
-      <screen x="0" y="23" width="1680" height="957" />
+    <state width="850" height="184" key="GridCell.Tab.1.left/0.25.1680.950@0.25.1680.950" timestamp="1606984218486" />
+    <state width="850" height="184" key="GridCell.Tab.1.right" timestamp="1606984218486">
+      <screen x="0" y="25" width="1680" height="950" />
     </state>
     <state width="1659" height="188" key="GridCell.Tab.1.right/0.23.1680.957@0.23.1680.957" timestamp="1605743171153" />
     <state width="782" height="312" key="GridCell.Tab.1.right/0.23.1680.958@0.23.1680.958" timestamp="1605167627547" />
-    <state x="713" y="120" width="900" height="743" key="SettingsEditor" timestamp="1606816478532">
+    <state width="850" height="184" key="GridCell.Tab.1.right/0.25.1680.950@0.25.1680.950" timestamp="1606984218486" />
+    <state x="713" y="120" width="900" height="743" key="SettingsEditor" timestamp="1607002846705">
       <screen x="0" y="25" width="1680" height="950" />
     </state>
     <state x="780" y="119" width="900" height="743" key="SettingsEditor/0.23.1680.957@0.23.1680.957" timestamp="1605528833369" />
-    <state x="713" y="120" key="SettingsEditor/0.25.1680.950@0.25.1680.950" timestamp="1606816478532" />
-    <state x="880" y="232" key="Vcs.Push.Dialog.v2" timestamp="1605462425350">
-      <screen x="0" y="23" width="1680" height="957" />
+    <state x="713" y="120" key="SettingsEditor/0.25.1680.950@0.25.1680.950" timestamp="1607002846705" />
+    <state x="880" y="232" key="Vcs.Push.Dialog.v2" timestamp="1606909346749">
+      <screen x="0" y="25" width="1680" height="950" />
     </state>
     <state x="880" y="232" key="Vcs.Push.Dialog.v2/0.23.1680.957@0.23.1680.957" timestamp="1605462425350" />
     <state x="880" y="233" key="Vcs.Push.Dialog.v2/0.23.1680.961@0.23.1680.961" timestamp="1605115866190" />
+    <state x="880" y="232" key="Vcs.Push.Dialog.v2/0.25.1680.950@0.25.1680.950" timestamp="1606909346749" />
+    <state x="1004" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606909306141">
+      <screen x="0" y="25" width="1680" height="950" />
+    </state>
+    <state x="1004" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.950@0.25.1680.950" timestamp="1606909306141" />
+    <state x="894" y="75" width="589" height="849" key="find.popup" timestamp="1606911841264">
+      <screen x="0" y="25" width="1680" height="950" />
+    </state>
+    <state x="894" y="75" width="589" height="849" key="find.popup/0.25.1680.950@0.25.1680.950" timestamp="1606911841264" />
     <state width="600" height="440" key="javadoc.popup" timestamp="1604761006914">
       <screen x="0" y="23" width="1680" height="957" />
     </state>
